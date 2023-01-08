@@ -1,0 +1,7 @@
+UPUTE ZA POKRETANJE APLIKACIJE
+
+Aplikacija se pokreće putem nekog od interpretera za interaktivnu fikciju. Dobar alat za to je primjerice Gargoyle. U datoteci Gargoyle nalazi se instalacijski paket za sustav Windows. Link za preuzimanje druge vrste paketa: https://github.com/garglk/garglk/releases.
+
+U interpreter se učitava datoteka naziva WishFish.gblorb. Nalazi se u WishFish.materials > Release. Igra se sad može igrati.
+
+- Elena Kržina
