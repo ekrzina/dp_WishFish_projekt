@@ -649,8 +649,7 @@ Instead of defending:
 	if noun is dragon:
 		if inCombat is true:
 			say "You defend from the dragon's next attack. You gain temporary 5 defense!";
-			now dragonAction is the substituted form of "[one of]claw attack[or]fire breath[or]take a breather[or]heal wounds[purely at random]";
-			decrease hp by damageDealt;
+			now dragonAction is the substituted form of "[one of]claw attack[or]fire breath[or]take a breather[or]heal wounds[purely at random]";			
 			say "[line break]DRAGON'S TURN[line break]";
 			if dragonAction is  "claw attack":
 				now damageDealt is 5 - def;
